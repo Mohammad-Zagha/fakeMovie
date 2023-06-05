@@ -1,22 +1,23 @@
 {
     "movies": [
-        {
-            "Title": "The Lion King",
-            "Year": "2019",
-            "Runtime": "118 min",
-            "genre": "comedy"
-        },
+       	 {
+    	"title": "The Lion King",
+   	 "director": "2019",
+   	 "releaseYear": "140",
+   	 "genre": "comedy"
+  	},
 	{
-            "Title": "Mowgli: Legend of the Jungle",
-            "Year": "2019",
-            "Runtime": "110 min",
-            "genre": "action"
-        },
+    	"title": "Legend of the Jungle",
+   	 "director": "2020",
+   	 "releaseYear": "100",
+   	 "genre": "action"
+  	},
 	{
-            "Title": "The Notebook",
-            "Year": "2012",
-            "Runtime": "90 min",
-            "genre": "action"
-        }
+    	"title": "The Notebook",
+   	 "director": "2012",
+   	 "releaseYear": "120",
+   	 "genre": "action"
+  	}
+	
     ]
 }
