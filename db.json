@@ -2,20 +2,20 @@
     "movies": [
        	 {
     	"title": "The Lion King",
-   	 "director": "2019",
-   	 "releaseYear": "140",
+   	 "releaseYear": "2019",
+   	 "runtime": "140",
    	 "genre": "comedy"
   	},
 	{
     	"title": "Legend of the Jungle",
-   	 "director": "2020",
-   	 "releaseYear": "100",
+   	 "releaseYear": "2020",
+   	 "runtime": "100",
    	 "genre": "action"
   	},
 	{
     	"title": "The Notebook",
-   	 "director": "2012",
-   	 "releaseYear": "120",
+   	 "releaseYear": "2012",
+   	 "runtime": "120",
    	 "genre": "action"
   	}
 	
