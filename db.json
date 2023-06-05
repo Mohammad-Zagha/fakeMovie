@@ -1,0 +1,22 @@
+{
+    "movies": [
+        {
+            "Title": "The Lion King",
+            "Year": "2019",
+            "Runtime": "118 min",
+            "genre": "comedy"
+        },
+	{
+            "Title": "Mowgli: Legend of the Jungle",
+            "Year": "2019",
+            "Runtime": "110 min",
+            "genre": "action"
+        },
+	{
+            "Title": "The Notebook",
+            "Year": "2012",
+            "Runtime": "90 min",
+            "genre": "action"
+        }
+    ]
+}
